@@ -1,4 +1,4 @@
 docker-ruby
 ===========
 
-Fire up a container with ruby installed
+A base image for ruby containers. As slim as I could get it. Weighs in at around 130MB
